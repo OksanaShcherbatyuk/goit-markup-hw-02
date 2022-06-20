@@ -70,7 +70,7 @@ button {
     letter-spacing: 0.02em;  
 }
 
-.nav-link:hover, .nav-link:focus {
+.nav-link:hover {
     color: var(--brand-color);
 }
 
@@ -84,7 +84,7 @@ button {
     letter-spacing: 0.02em;
 }
 
-.nav-contacts a:hover, :focus {
+.nav-contacts a:hover {
     color: var(--brand-color);
 }
 
